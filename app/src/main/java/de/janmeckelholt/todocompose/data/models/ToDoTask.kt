@@ -2,7 +2,7 @@ package de.janmeckelholt.todocompose.data.models
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey
-import de.janmeckelholt.todocompose.Constants
+import de.janmeckelholt.todocompose.utils.Constants
 
 @Entity(tableName = Constants.DATABASE_TABLE)
 data class ToDoTask(
