@@ -1,7 +1,15 @@
 <resources>
     <string name="app_name">ToDoCompose</string>
     <string name="btn_add_desc">Add Button</string>
-    <string name="action_search_desc">Search Tasks</string>
-    <string name="action_sort_desc">Sort Tasks</string>
+
+
+    <string name="delete_all">Delete All</string>
+
+    <string name="vertical_menu_icon_desc">Vertical Menu</string>
+    <string name="sort_icon_desc">Sort Tasks</string>
+    <string name="search_placeholder">Search</string>
+    <string name="search_icon_desc">Search Icon</string>
+    <string name="close_icon_desc">Close Icon</string>
+
 
 </resources>
