@@ -11,5 +11,9 @@
     <string name="search_icon_desc">Search Icon</string>
     <string name="close_icon_desc">Close Icon</string>
 
+    <string name="sad_face_icon_desc">Sad Face Icon</string>
+
+    <string name="no_task_found">No tasks found!</string>
+
 
 </resources>

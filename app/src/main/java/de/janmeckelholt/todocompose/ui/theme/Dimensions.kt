@@ -8,3 +8,7 @@ val SMALL_PADDING = 6.dp
 
 
 val PRIORITY_INDICATOR_SIZE = 16.dp
+
+val TASK_ITEM_ELEVATION = 2.dp
+
+val SAD_FACE_SIZE =120.dp
